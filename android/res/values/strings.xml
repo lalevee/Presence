@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DemoTSC</string>
+    <string name="authors">P. LALEVÉE and P. JAILLON\nENSM.SE</string>
+
+    <string name="lenaddress">192.168.0.14</string>
+    <string name="lenport">30303</string>
+    <string name="lenname">Alice</string>
+
+    <string name="wenaddress">192.168.0.14</string>
+    <string name="wenport">40404</string>
+    <string name="wenname">Bob</string>
+    
+    <string name="macaddress">00:18:41:fe:7d:66</string>
+    
+    <string name="about_text">TSC Demonstrator is part of\nMEDEA+ TSC Project\n
+(c) P. Lalevée and P. Jaillon, 2009, ENSM.SE
+    </string>
+</resources>

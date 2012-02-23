@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<EditTextPreference
+		android:key="lenserver"
+		android:title="LEN Server IP"
+		android:defaultValue="@string/lenaddress">
+	</EditTextPreference>
+	
+	<EditTextPreference
+		android:key="lenport"
+		android:title="LEN Server Port"
+		android:defaultValue="@string/lenport">
+	</EditTextPreference>
+
+	<EditTextPreference
+		android:key="lenname"
+		android:title="LEN User Name"
+		android:defaultValue="@string/lenname">
+	</EditTextPreference>
+	
+	<EditTextPreference
+		android:key="wenserver"
+		android:title="WEN Server IP"
+		android:defaultValue="@string/wenaddress">
+	</EditTextPreference>
+	
+	<EditTextPreference
+		android:key="wenport"
+		android:title="WEN Server Port"
+		android:defaultValue="@string/wenport">
+	</EditTextPreference>
+
+	<EditTextPreference
+		android:key="wenname"
+		android:title="WEN User Name"
+		android:defaultValue="@string/wenname">
+	</EditTextPreference>
+</PreferenceScreen>
