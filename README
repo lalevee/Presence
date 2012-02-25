@@ -1,4 +1,7 @@
 Presence project.
 
+This project aims to ensure the presence of a mobile in an predefined
+area. It is composed of an Android application and a server.
+
 (c) Philippe Lalevée, 2009-2012
 
